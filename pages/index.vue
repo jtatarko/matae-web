@@ -15,7 +15,7 @@
       />
       <p class="text-xl mt-2 text-center">Terapie a poradenstvo</p>
     </div>
-    <div class="text-lg my-8">
+    <div class="text-lg my-8 z-10">
       <!-- <a href="mailto:contact@matae.sk">contact@matae.sk</a>
       | -->
       <a class="underline" href="tel:+421907677074">+421 907 677 074</a>
