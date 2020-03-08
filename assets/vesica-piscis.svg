@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="729px" height="728px" viewBox="0 0 729 728" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-148.000000, -89.000000)" stroke="#006C63">
+            <g id="Group" transform="translate(149.000000, 89.000000)">
+                <ellipse id="Oval" cx="475.5" cy="363.5" rx="251.5" ry="250.5"></ellipse>
+                <ellipse id="Oval-Copy" cx="251.5" cy="363.5" rx="251.5" ry="250.5"></ellipse>
+                <ellipse id="Oval-Copy-3" transform="translate(363.500000, 476.000000) rotate(-270.000000) translate(-363.500000, -476.000000) " cx="363.5" cy="476" rx="251.5" ry="251"></ellipse>
+                <ellipse id="Oval-Copy-2" transform="translate(363.500000, 252.000000) rotate(-270.000000) translate(-363.500000, -252.000000) " cx="363.5" cy="252" rx="251.5" ry="251"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
